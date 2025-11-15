@@ -1,0 +1,5 @@
+{
+  "name": "X'PAT JOBS",
+  "description": "A mobile-first job board application designed for foreign workers in Malaysia. It allows job seekers to create profiles via a conversational UI and enables employers to find and contact them through a secure request system. The app supports multiple languages including English, Bengali, and Malay.",
+  "requestFramePermissions": []
+}
